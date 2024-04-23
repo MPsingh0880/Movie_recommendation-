@@ -1,4 +1,4 @@
-const apiKey = '063b9c7527f084b77b36a00e91e16c01';  // You need to replace this with your TMDB API key
+const apiKey = '063b9c7527f084b77b36a00e91e16c01';  
 const apiUrl = 'https://api.themoviedb.org/3/search/movie?api_key=' + apiKey + '&query=';
 
 function fetchMovies() {
